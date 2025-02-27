@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "sellerId": 2,
+        "name": "Wireless Headphones",
+        "description": "High-quality noise-canceling wireless headphones.",
+        "price": 120,
+        "stockQuantity": 50,
+        "createdAt": "2025-02-27T12:00:00Z",
+        "updatedAt": "2025-02-27T12:00:00Z"
+    },
+    {
+        "id": 2,
+        "sellerId": 2,
+        "name": "Gaming Mouse",
+        "description": "Ergonomic gaming mouse with customizable buttons.",
+        "price": 60,
+        "stockQuantity": 30,
+        "createdAt": "2025-02-27T13:00:00Z",
+        "updatedAt": "2025-02-27T13:00:00Z"
+    }
+]

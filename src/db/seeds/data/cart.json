@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "buyerId": 1,
+        "productId": 1,
+        "quantity": 1,
+        "createdAt": "2025-02-27T16:00:00Z",
+        "updatedAt": "2025-02-27T16:00:00Z"
+    },
+    {
+        "id": 2,
+        "buyerId": 1,
+        "productId": 2,
+        "quantity": 1,
+        "createdAt": "2025-02-27T17:00:00Z",
+        "updatedAt": "2025-02-27T17:00:00Z"
+    }
+]

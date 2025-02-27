@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Alice Johnson",
+        "email": "alice@example.com",
+        "passwordHash": "hashed_password_1",
+        "role": "buyer",
+        "createdAt": "2025-02-27T10:00:00Z",
+        "updatedAt": "2025-02-27T10:00:00Z"
+    },
+    {
+        "id": 2,
+        "name": "Bob Smith",
+        "email": "bob@example.com",
+        "passwordHash": "hashed_password_2",
+        "role": "seller",
+        "createdAt": "2025-02-27T11:00:00Z",
+        "updatedAt": "2025-02-27T11:00:00Z"
+    }
+]

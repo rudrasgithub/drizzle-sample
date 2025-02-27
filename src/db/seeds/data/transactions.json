@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "orderId": 1,
+        "amount": 180,
+        "status": "pending",
+        "paymentMethod": "credit_card",
+        "transactionDate": "2025-02-27T15:00:00Z"
+    }
+]
